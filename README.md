@@ -1,6 +1,6 @@
 # Smart Retail Inventory Prediction
 
-# Word Document Link
+## Word Document Link
 
 https://wilpbitspilaniacin0-my.sharepoint.com/:w:/g/personal/2025aa05700_wilp_bits-pilani_ac_in/IQCxLATpnGQuTpx65JTrfIxfAe2NHcfiMZxD0oA3twskSRs?e=Sg0Ar9
 
