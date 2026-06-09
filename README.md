@@ -25,8 +25,8 @@ The objective is to develop a machine learning system that accurately predicts f
 
 - Retail Business Owners
 - Data Analysts
-* Customers
-+ Suppliers and Distributors
+- Customers
+- Suppliers and Distributors
 
 ## Business Objectives
 
@@ -44,7 +44,7 @@ The objective is to develop a machine learning system that accurately predicts f
 
 ## Functional Requirements
 
-### FR1: Data Collection
+### Data Collection (High Priority)
 
 - The system shall collect historical sales data.
 
@@ -52,25 +52,25 @@ The objective is to develop a machine learning system that accurately predicts f
 
 - The system shall gather promotional and seasonal information.
 
-### FR2: Data Preprocessing
+### Data Preprocessing (High Priority)
 
 - The system shall clean missing and inconsistent data.
 
 - The system shall transform and normalize relevant features.
 
-### FR3: Demand Forecasting
+### Demand Forecasting (High Priority)
 
 - The system shall predict future product demand using machine learning models.
 
 - The system shall generate forecasts for configurable future periods.
 
-### FR4: Inventory Recommendation
+### Inventory Recommendation (High Priority)
 
 - The system shall recommend reorder quantities.
 
 - The system shall identify products at risk of stockout.
 
-### FR5: Reporting and Visualization
+### Reporting and Visualization (Medium Priority)
 
 - The system shall display demand trends.
 
@@ -78,13 +78,13 @@ The objective is to develop a machine learning system that accurately predicts f
 
 - The system shall generate forecast reports.
 
-### FR6: Alert Generation
+### Alert Generation (Medium Priority)
 
 - The system shall notify users when inventory falls below threshold levels.
 
 - The system shall generate alerts for abnormal demand fluctuations.
 
-## Non-Functional Requirements
+## Non-Functional Requirements (Medium Priority)
 
 ### Performance
 
