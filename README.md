@@ -4,6 +4,8 @@
 
 https://wilpbitspilaniacin0-my.sharepoint.com/:w:/g/personal/2025aa05700_wilp_bits-pilani_ac_in/IQCxLATpnGQuTpx65JTrfIxfAe2NHcfiMZxD0oA3twskSRs?e=Sg0Ar9
 
+# Objective 1: Requirements Formulation
+
 ## Domain Description
 
 The Smart Retail Inventory Prediction System is a machine learning-based solution designed to forecast product demand and optimize inventory levels in retail stores. By analysing historical sales data, seasonal trends, promotions, holidays, and customer purchasing behaviour, the system helps retailers maintain optimal stock levels, reduce inventory costs, and improve customer satisfaction.
