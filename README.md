@@ -2,7 +2,7 @@
 
 ## Domain Description
 
-The Smart Retail Inventory Prediction System is a machine learning-based solution designed to forecast product demand and optimize inventory levels in retail stores. By analyzing historical sales data, seasonal trends, promotions, holidays, and customer purchasing behavior, the system helps retailers maintain optimal stock levels, reduce inventory costs, and improve customer satisfaction.
+The Smart Retail Inventory Prediction System is a machine learning-based solution designed to forecast product demand and optimize inventory levels in retail stores. By analysing historical sales data, seasonal trends, promotions, holidays, and customer purchasing behaviour, the system helps retailers maintain optimal stock levels, reduce inventory costs, and improve customer satisfaction.
 
 The system supports data-driven inventory management by predicting future demand and generating timely replenishment recommendations.
 
@@ -123,9 +123,13 @@ Models should support periodic retraining with new data.
 | KPI	|Target|
 | ------|------|
 |Forecast Accuracy|	≥ 90%|
-|tockout Reduction|	≥ 30%|
+|Stockout Reduction|	≥ 30%|
 |Inventory Holding Cost Reduction|	≥ 20%|
 |Excess Inventory Reduction|	≥ 15%|
 |Dashboard Response Time|	< 3 seconds|
 |Forecast Generation Time|	< 5 seconds|
 |User Satisfaction Score|	≥ 4/5|
+
+# Word Document Link
+
+https://wilpbitspilaniacin0-my.sharepoint.com/personal/2025aa05700_wilp_bits-pilani_ac_in/Documents/Group_160_SEML_Smart_Retail_Inventory_Prediction.docx?web=1
