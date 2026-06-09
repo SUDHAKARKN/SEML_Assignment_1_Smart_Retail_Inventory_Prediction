@@ -132,4 +132,4 @@ Models should support periodic retraining with new data.
 
 # Word Document Link
 
-https://wilpbitspilaniacin0-my.sharepoint.com/personal/2025aa05700_wilp_bits-pilani_ac_in/Documents/Group_160_SEML_Smart_Retail_Inventory_Prediction.docx?web=1
+https://wilpbitspilaniacin0-my.sharepoint.com/:w:/g/personal/2025aa05700_wilp_bits-pilani_ac_in/IQCxLATpnGQuTpx65JTrfIxfAe2NHcfiMZxD0oA3twskSRs?e=Sg0Ar9
