@@ -1,5 +1,3 @@
-# SEML_Assignment_1_Smart_Retail_Inventory_Prediction
-
 # Smart Retail Inventory Prediction
 
 ## Domain Description
